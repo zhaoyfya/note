@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "2e356ba967099786",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0b22f8d055674c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100ff3d1dc68ea89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-Dpdk/f.其他模块/padding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e55ed3b8f9121eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d448d9a590a5a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "771c6bf18f77c5d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "679a487d5792dda2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77eefac50d7eafa7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "05d2ab0a38e4bbe1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb0169fa5e33c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce05c5ed5c9b778c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f66f4c922e3f451",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C-Dpdk/f.其他模块/padding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eb8493e0bedcf71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C-Dpdk/f.其他模块/padding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afd8195bf6344af5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "448e10cb0bedc418",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C-Dpdk/f.其他模块/padding.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "100ff3d1dc68ea89",
+  "lastOpenFiles": [
+    "C-Dpdk/d.PMD驱动/padding.md",
+    "C-Dpdk/f.其他模块/padding.md",
+    "B-Linux/e.文件系统/padding.md",
+    "B-Linux/c.内存管理/padding.md",
+    "B-Linux/c.内存管理",
+    "A-Interview/内核.md",
+    "B-Linux/调试工具和命令.md",
+    "B-Linux/kernel/3. 内核运行.md",
+    "B-Linux/kernel/4. 内核初始化.md",
+    "B-Linux/kernel/2. 启动.md",
+    "B-Linux/kernel/1. 整体架构.md",
+    "B-Linux/kernel",
+    "B-Linux/d.网络系统/netfilter-iptables-ipset.md",
+    "B-Linux/OS Principles/零拷贝Zero-Copy技术.md",
+    "B-Linux/OS Principles/系统基础和常用命令.md",
+    "B-Linux/OS Principles/零拷贝.md",
+    "B-Linux/OS Principles/守护进程.md",
+    "B-Linux/OS Principles",
+    "A-Interview/协议.md",
+    "A-Interview/DPDK-Hyperscan.md",
+    "A-Interview/FlowID.md",
+    "B-Linux/z.系统基础/调试工具和命令.md",
+    "B-Linux/z.系统基础/系统基础和常用命令.md",
+    "B-Linux/z.系统基础",
+    "B-Linux/d.网络系统/零拷贝.md",
+    "B-Linux/d.网络系统/netfilter/4.x_table.md",
+    "B-Linux/d.网络系统/netfilter/3.iptables.md",
+    "B-Linux/d.网络系统/netfilter/2.conntrack.md",
+    "B-Linux/d.网络系统/netfilter/1.netfilter.md",
+    "B-Linux/d.网络系统/netfilter",
+    "B-Linux/d.网络系统/linux收发包流程.md",
+    "B-Linux/a.内核初始化",
+    "B-Linux/d.网络系统",
+    "B-Linux/c.内存管理",
+    "B-Linux/b.进程管理",
+    "C-Dpdk/f.其他模块",
+    "Z-Image/Pasted image 20230409193905.png",
+    "Z-Image/Pasted image 20230409193855.png",
+    "Z-Image/Pasted image 20230409144500.png",
+    "Z-Image/Pasted image 20230409155959.png",
+    "Z-Image/Pasted image 20230409144022.png",
+    "Z-Image/Pasted image 20230314114403.png",
+    "Z-Image/Pasted image 20230314114253.png",
+    "Z-Image/Pasted image 20230314114356.png",
+    "Z-Image/Pasted image 20230314114202.png",
+    "Z-Image/Pasted image 20230314114119.png"
+  ]
+}
