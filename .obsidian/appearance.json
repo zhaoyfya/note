@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "微软雅黑,Consolas",
+  "textFontFamily": "微软雅黑,Consolas",
+  "monospaceFontFamily": "微软雅黑,Consolas",
+  "baseFontSize": 16,
+  "translucency": false
 }

@@ -8,5 +8,13 @@
   },
   "useMarkdownLinks": true,
   "newFileLocation": "root",
-  "newFileFolderPath": "D:\\note"
+  "newFileFolderPath": "D:\\note",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-GB"
+  ],
+  "vimMode": false
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0b22f8d055674c",
+        "id": "2685c7d19d87be76",
         "type": "tabs",
         "children": [
           {
-            "id": "100ff3d1dc68ea89",
+            "id": "46a7149ac3656ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Dpdk/f.其他模块/padding.md",
+                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Dpdk/f.其他模块/padding.md",
+                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Dpdk/f.其他模块/padding.md",
+                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Dpdk/f.其他模块/padding.md"
+                "file": "B-Linux/a.系统安装/2.内核编译调试.md"
               }
             }
           }
@@ -149,58 +149,58 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "100ff3d1dc68ea89",
+  "active": "46a7149ac3656ca8",
   "lastOpenFiles": [
-    "C-Dpdk/d.PMD驱动/padding.md",
-    "C-Dpdk/f.其他模块/padding.md",
-    "B-Linux/e.文件系统/padding.md",
-    "B-Linux/c.内存管理/padding.md",
-    "B-Linux/c.内存管理",
-    "A-Interview/内核.md",
-    "B-Linux/调试工具和命令.md",
-    "B-Linux/kernel/3. 内核运行.md",
-    "B-Linux/kernel/4. 内核初始化.md",
-    "B-Linux/kernel/2. 启动.md",
-    "B-Linux/kernel/1. 整体架构.md",
-    "B-Linux/kernel",
-    "B-Linux/d.网络系统/netfilter-iptables-ipset.md",
-    "B-Linux/OS Principles/零拷贝Zero-Copy技术.md",
-    "B-Linux/OS Principles/系统基础和常用命令.md",
-    "B-Linux/OS Principles/零拷贝.md",
-    "B-Linux/OS Principles/守护进程.md",
-    "B-Linux/OS Principles",
+    "B-Linux/a.系统安装/3.磁盘相关.md",
+    "B-Linux/z.命令详解/1.系统基础和常用命令.md",
+    "B-Linux/z.命令详解/2.CPU相关.md",
+    "B-Linux/z.命令详解/3.网络相关.md",
+    "B-Linux/z.命令详解/4.内存相关.md",
+    "B-Linux/z.命令详解/5.进程相关.md",
+    "B-Linux/a.系统安装/1.Ubuntu.md",
+    "B-Linux/a.系统安装/2.内核编译调试.md",
     "A-Interview/协议.md",
-    "A-Interview/DPDK-Hyperscan.md",
     "A-Interview/FlowID.md",
-    "B-Linux/z.系统基础/调试工具和命令.md",
-    "B-Linux/z.系统基础/系统基础和常用命令.md",
-    "B-Linux/z.系统基础",
-    "B-Linux/d.网络系统/零拷贝.md",
-    "B-Linux/d.网络系统/netfilter/4.x_table.md",
-    "B-Linux/d.网络系统/netfilter/3.iptables.md",
-    "B-Linux/d.网络系统/netfilter/2.conntrack.md",
-    "B-Linux/d.网络系统/netfilter/1.netfilter.md",
-    "B-Linux/d.网络系统/netfilter",
-    "B-Linux/d.网络系统/linux收发包流程.md",
-    "B-Linux/a.内核初始化",
-    "B-Linux/d.网络系统",
-    "B-Linux/c.内存管理",
-    "B-Linux/b.进程管理",
-    "C-Dpdk/f.其他模块",
+    "B-Linux/h.网络系统/protocol/4.链路层/VLAN-VXLAN.md",
+    "B-Linux/h.网络系统/protocol/4.链路层/MAC.md",
+    "B-Linux/h.网络系统/protocol/3.网络层/IP.md",
+    "Z-Image/Pasted image 20230312135301.png",
+    "Z-Image/31.webp",
+    "Z-Image/28541347_1526221162OwFd.jpg",
     "Z-Image/Pasted image 20230409193905.png",
-    "Z-Image/Pasted image 20230409193855.png",
-    "Z-Image/Pasted image 20230409144500.png",
-    "Z-Image/Pasted image 20230409155959.png",
-    "Z-Image/Pasted image 20230409144022.png",
-    "Z-Image/Pasted image 20230314114403.png",
-    "Z-Image/Pasted image 20230314114253.png",
-    "Z-Image/Pasted image 20230314114356.png",
-    "Z-Image/Pasted image 20230314114202.png",
-    "Z-Image/Pasted image 20230314114119.png"
+    "Z-Image/Pasted image 20230531150748.png",
+    "B-Linux/h.网络系统/linux收发包流程.md",
+    "D-OpenFlow",
+    "D-SDN",
+    "B-Linux/h.网络系统/netfilter/netfilter-iptables-ipset.md",
+    "B-Linux/z.命令详解",
+    "B-Linux/b.系统工具/python.md",
+    "B-Linux/d.硬件驱动",
+    "B-Linux/b.系统工具/shell.md",
+    "B-Linux/b.系统工具/Makefile.md",
+    "B-Linux/b.系统工具/gdb.md",
+    "B-Linux/b.系统工具/gcc.md",
+    "B-Linux/c.整体框架/1. 整体架构.md",
+    "B-Linux/g.文件系统/padding.md",
+    "X-Tools/xshell.md",
+    "B-Linux/b.系统工具",
+    "X-Tools/vmware.md",
+    "X-Tools/vscode.md",
+    "X-Tools/vim.md",
+    "X-Tools",
+    "Z-Image/Pasted image 20230601170336.png",
+    "Z-Image/Pasted image 20230313220923.png",
+    "Z-Image/Pasted image 20230312153824.png",
+    "Z-Image/Pasted image 20230312143651.png",
+    "Z-Image/Pasted image 20230531150136.png",
+    "B-Linux/f.内存管理",
+    "B-Linux/kernel",
+    "B-Linux/OS Principles",
+    "B-Linux/a.系统安装"
   ]
 }
