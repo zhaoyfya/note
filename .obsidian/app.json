@@ -12,9 +12,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "rightToLeft": false,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "vimMode": false
 }
