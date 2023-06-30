@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46a7149ac3656ca8",
+            "id": "7aae6165560c9a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
+                "file": "B-Linux/a.系统安装/rpm打包.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
+                "file": "B-Linux/a.系统安装/rpm打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-Linux/a.系统安装/2.内核编译调试.md",
+                "file": "B-Linux/a.系统安装/rpm打包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-Linux/a.系统安装/2.内核编译调试.md"
+                "file": "B-Linux/a.系统安装/rpm打包.md"
               }
             }
           }
@@ -154,53 +154,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46a7149ac3656ca8",
+  "active": "7aae6165560c9a8d",
   "lastOpenFiles": [
-    "B-Linux/a.系统安装/3.磁盘相关.md",
-    "B-Linux/z.命令详解/1.系统基础和常用命令.md",
-    "B-Linux/z.命令详解/2.CPU相关.md",
-    "B-Linux/z.命令详解/3.网络相关.md",
-    "B-Linux/z.命令详解/4.内存相关.md",
-    "B-Linux/z.命令详解/5.进程相关.md",
-    "B-Linux/a.系统安装/1.Ubuntu.md",
+    "B-Linux/a.系统安装/dracut制作initramfs.md",
+    "B-Linux/a.系统安装/rpm打包.md",
+    "Pasted image 20230630155145.png",
+    "Pasted image 20230630155144.png",
     "B-Linux/a.系统安装/2.内核编译调试.md",
-    "A-Interview/协议.md",
-    "A-Interview/FlowID.md",
-    "B-Linux/h.网络系统/protocol/4.链路层/VLAN-VXLAN.md",
-    "B-Linux/h.网络系统/protocol/4.链路层/MAC.md",
-    "B-Linux/h.网络系统/protocol/3.网络层/IP.md",
-    "Z-Image/Pasted image 20230312135301.png",
-    "Z-Image/31.webp",
-    "Z-Image/28541347_1526221162OwFd.jpg",
-    "Z-Image/Pasted image 20230409193905.png",
-    "Z-Image/Pasted image 20230531150748.png",
-    "B-Linux/h.网络系统/linux收发包流程.md",
-    "D-OpenFlow",
-    "D-SDN",
-    "B-Linux/h.网络系统/netfilter/netfilter-iptables-ipset.md",
-    "B-Linux/z.命令详解",
-    "B-Linux/b.系统工具/python.md",
-    "B-Linux/d.硬件驱动",
-    "B-Linux/b.系统工具/shell.md",
-    "B-Linux/b.系统工具/Makefile.md",
-    "B-Linux/b.系统工具/gdb.md",
-    "B-Linux/b.系统工具/gcc.md",
-    "B-Linux/c.整体框架/1. 整体架构.md",
-    "B-Linux/g.文件系统/padding.md",
+    "B-Linux/a.系统安装/1.Ubuntu.md",
+    "B-Linux/a.系统安装/3.磁盘相关.md",
     "X-Tools/xshell.md",
-    "B-Linux/b.系统工具",
-    "X-Tools/vmware.md",
+    "X-Tools/git.md",
+    "README.md",
+    "A-Interview/DPDK-Hyperscan.md",
+    "Z-Image/Pasted image 20230531150748.png",
+    "Z-Image/Pasted image 20230409193905.png",
+    "Z-Image/Pasted image 20230409193855.png",
+    "Z-Image/Pasted image 20230409155959.png",
+    "Z-Image/Pasted image 20230409144500.png",
+    "Z-Image/Pasted image 20230409144022.png",
+    "Z-Image/Pasted image 20230314114403.png",
+    "Z-Image/Pasted image 20230314114356.png",
+    "Z-Image",
     "X-Tools/vscode.md",
+    "X-Tools/vmware.md",
     "X-Tools/vim.md",
     "X-Tools",
-    "Z-Image/Pasted image 20230601170336.png",
-    "Z-Image/Pasted image 20230313220923.png",
-    "Z-Image/Pasted image 20230312153824.png",
-    "Z-Image/Pasted image 20230312143651.png",
-    "Z-Image/Pasted image 20230531150136.png",
-    "B-Linux/f.内存管理",
-    "B-Linux/kernel",
-    "B-Linux/OS Principles",
-    "B-Linux/a.系统安装"
+    "C-Dpdk/f.其他模块/padding.md",
+    "C-Dpdk/e.同步机制/3.同步互斥机制.md",
+    "C-Dpdk/d.PMD驱动/padding.md",
+    "C-Dpdk/c.报文收发/5.PCIe与包处理IO.md",
+    "C-Dpdk/c.报文收发/4.报文转发.md",
+    "C-Dpdk/b.内存管理/cache和内存.md",
+    "C-Dpdk/a.EAL初始化/启动参数.md",
+    "C-Dpdk/a.EAL初始化/2.并行计算.md",
+    "C-Dpdk/f.其他模块",
+    "C-Dpdk/e.同步机制",
+    "C-Dpdk/d.PMD驱动",
+    "C-Dpdk/c.报文收发",
+    "C-Dpdk/b.内存管理",
+    "C-Dpdk/a.EAL初始化",
+    "C-Dpdk",
+    "B-Linux/h.网络系统/protocol/1.应用层/流媒体/RTSP-RTP-RTCP.md",
+    "B-Linux/h.网络系统/protocol/1.应用层/远程控制/TELNET.md",
+    "B-Linux/h.网络系统/protocol/1.应用层/远程控制/SSH.md",
+    "B-Linux/h.网络系统/protocol/1.应用层/流媒体/RTMP.md",
+    "B-Linux/h.网络系统/protocol/1.应用层/共享文件/SMB.md",
+    "B-Linux/h.网络系统/protocol/1.应用层/流媒体"
   ]
 }
